@@ -1,6 +1,6 @@
 # ai-agent-study
 각 주차는 개념 학습 → 실습 단계 → 심화 프로젝트 단계로 진행하며, 매주 구현물과 함께 컨설팅 장표(산출물)를 작성한다.
-
+질문은 [이슈](https://github.com/sypark9646/ai-agent-study/issues) 댓글로 남긴다.
 | Week | 주제 | Hands-on | 컨설팅 장표 | 권장 형식 |
 |------|------|----------|------------|-----------|
 | 1 | Enterprise Agent Architecture | Single Agent 구현 | Architecture Diagram | PPT, draw.io, Git |
